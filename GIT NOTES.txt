@@ -1,0 +1,20 @@
+git status - for status
+git init - for initialize a empty git repo
+git add --a =  for adding all files into repo
+
+git commit -m "some msg" = for updation
+git log = for last all updation status
+rm -rf .git = to delete currunt git repo
+git clone path = path via tensorflow
+pwd = present working directoru
+cd tensorflow/ = f0r changing directoru
+
+git log and getting out q
+
+git commit -a -m "Direct commit" = Only  tracked file to commit no untracckek files will be commit
+
+git rm filename = to remove file
+git mv  filename Rename_filename = channging filename
+
+it will update on next git status
+
